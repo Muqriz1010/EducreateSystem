@@ -4,13 +4,13 @@ Educreate is an application system that serves the purposes of streamlining the 
 # Use cases:
 
 # Admin
-Set up qualification 
-Register University 
-Record Programme
-Review Application
+1 Set up qualification 
+2 Register University 
+3 Record Programme
+4 Review Application
 
 # Applicant
-Sign Up 
-Submit Obtained Qualification
-Apply for Programme
-Check Application Status
+5 Sign Up 
+6 Submit Obtained Qualification
+7 Apply for Programme
+8 Check Application Status
