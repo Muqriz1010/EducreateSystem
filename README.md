@@ -9,7 +9,7 @@ Educreate is an application system that serves the purposes of streamlining the 
 3. Record Programme
 4. Review Application
 
-**Applicant**:
+# Applicant:
 5. Sign Up 
 6. Submit Obtained Qualification
 7. Apply for Programme
