@@ -1,8 +1,7 @@
 # Educreate
 BIT216_Assignment2: Educreate Student Application System
 Educreate is an application system that serves the purposes of streamlining the process of viewing university courses, and managing university applications. 
-# Use cases:
-
+## Use cases:
 **Admin**:
 1. Set up qualification 
 2. Register University 
